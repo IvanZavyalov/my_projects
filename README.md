@@ -1,1 +1,1 @@
-# my_projects
+This repository contains my first projects in data analytics. The projects were completed using the Python programming language in a Jupyter Notebook. At the beginning of each project, its objectives, execution plan, and a description of the data used for analysis are presented. At the end of each project, general conclusions and findings are provided.
